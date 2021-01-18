@@ -1,4 +1,4 @@
-## UnhookMe - Dynamically unhooking imports resolver
+## UnhookMe - Windows API resolver ensuring dynamic unhooking 
 
 In the era of intrusive AVs and EDRs that introduce hot-patches to the running processes for their enhanced optics requirements, modern adversaries must have a robust tool to slide through these watchguards. The propsed implementation of dynamic imports resolver that would be capable of unhooking used functions in-the-fly is yet another step towards strengthening adversary resilience efforts.
 
